@@ -1,1 +1,4 @@
 grupos:
+A-Daniel
+B-Pelayo
+C-Victor
