@@ -1,5 +1,4 @@
 nombres:
-victor
+victor manuel
 dany
 jesus
-puto el que lo lea

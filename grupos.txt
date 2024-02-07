@@ -2,8 +2,4 @@ grupos:
 A-Daniel
 B-Pelayo
 C-Victor
-me 
-gusta
-la
-pija
-.
+D-Ingeniero
